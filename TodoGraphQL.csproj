@@ -8,8 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="GraphQL" Version="4.7.0" />
-    <PackageReference Include="GraphQL.NewtonsoftJson" Version="4.7.0" />
-    <PackageReference Include="GraphQL.SystemTextJson" Version="4.7.0" />
+    <PackageReference Include="HotChocolate.AspNetCore" Version="12.4.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
